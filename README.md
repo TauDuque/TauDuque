@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola 👋
+
+Soy Tauan Ribeiro, brasileño viviendo en Valencia-España. Desarollador Full Stack en la empresa brasileña ActionSys.
+
+Stack: NodeJS, Express y TypeORM (Back-End) - React, Redux Saga y NextJS (Front-End)
+
 
 <!--
 **TauDuque/TauDuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
