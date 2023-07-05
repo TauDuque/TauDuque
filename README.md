@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy Tauan Ribeiro, brasileño viviendo en Valencia-España. Desarollador Full Stack en la empresa brasileña ActionSys.
+Soy Tauan Ribeiro, brasileño viviendo en Valencia/España. Desarollador Full Stack en la empresa brasileña ActionSys.
 
 Stack: NodeJS, Express y TypeORM (Back-End) - React, Redux Saga y NextJS (Front-End)
 
